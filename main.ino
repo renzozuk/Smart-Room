@@ -11,10 +11,10 @@
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
 
-#define WIFI_SSID "imd0902"
-#define WIFI_PASSWORD "imd0902iot"
-#define API_KEY "AIzaSyCg7DEZ5cCK4X2WrCskOBKgKcrXT6JfFNQ"
-#define DATABASE_URL "https://smart-room-manager-database-default-rtdb.firebaseio.com/"
+#define WIFI_SSID "*******"
+#define WIFI_PASSWORD "*******"
+#define API_KEY "*******"
+#define DATABASE_URL "*******"
 
 #define LED1 27
 #define LED2 26
@@ -25,8 +25,8 @@
 #define MSG_BUFFER_SIZE  (50)
 #define RST_PIN         16        
 #define SS_PIN          17        
-#define IO_USERNAME  "danielnobre09"
-#define IO_KEY       "aio_VjeQ31W9o1xY5JKjQMhOMUKe6Qvt"
+#define IO_USERNAME  "*******"
+#define IO_KEY       "*******"
 
 const char* mqttserver = "io.adafruit.com";
 const int mqttport = 1883;
